@@ -2,7 +2,7 @@
 
 [[Paper](https://openreview.net/forum?id=jzzEHTBFOT)]
 
-![](figure/CTPT_ICLR2024_poster.png)
+![](figures/CTPT_ICLR2024_poster.png)
 
 ## Running Experiments
 The code will be updated soon.
